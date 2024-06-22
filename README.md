@@ -2,7 +2,7 @@
 GitMap is a tool to gather public information of any github user.
 # Installation
 Well, now that it has taken your interest, it's time to show your copy-paste skills. Ready? Let's start with cloning the repository with copy-pasting the following command:
-- `git clone https://github.com/cyberbyte404/GitMap.git`
+- `git clone https://github.com/mozammel404/GitMap.git`
 
 Now that you have GitMap repository you can easily shift into the repository folder, can't you? Oh, I see the newbies don't know how to do that. Then, don't worry; paste this command right after you cloned the repository:
 - `cd GitMap`
